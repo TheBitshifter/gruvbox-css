@@ -157,6 +157,9 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+td {
+  border: 1pt solid #a89984;    /**/
+}
 html {
   font-family: 'PT Sans', sans-serif;
 }
@@ -181,7 +184,8 @@ html {
 body {
   background-color: #3c3836;    /**/
   margin: 0 auto;
-  max-width: 23cm;
+  /* max-width: 23cm; */
+  max-width: 35cm;
   border: 1pt solid #a89984;    /**/
   padding: 1em;
 }
